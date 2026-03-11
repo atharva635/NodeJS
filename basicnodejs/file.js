@@ -1,3 +1,6 @@
+//day one of node
+
+
 const file = require('fs');
 file.writeFile("output.txt","Writing File",(err)=>{
     if(err){
