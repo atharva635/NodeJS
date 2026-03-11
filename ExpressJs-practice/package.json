@@ -1,0 +1,16 @@
+{
+  "name": "expressjs-practice",
+  "version": "1.0.0",
+  "description": "The Project For ExpressJs",
+  "license": "ISC",
+  "author": "Learning Basics of ExpressJs",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
